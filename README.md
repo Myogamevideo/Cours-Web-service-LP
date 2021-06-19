@@ -2,9 +2,11 @@
 
 * [TP1 Framework Micronaut Rest](https://perso.limos.fr/~sesalva/TPSoap/tp1/)
   * Installation : https://micronaut.io/download/
-  * https://github.com/Integrale18/micronauteproject/tree/master/src
-  * https://github.com/Suraj7852/MicronautExample/tree/master/src
+  * Micronaut Service : https://github.com/Integrale18/micronauteproject/tree/master/src
+  * Micronaut Service : https://github.com/Suraj7852/MicronautExample/tree/master/src
   * Google App Engine : https://perso.limos.fr/~sesalva/files/rest-cloud/tp/tp3/
+  * Google App Engine : https://github.com/GoogleCloudPlatform/gcloud-maven-plugin
+  * Micronaut Client : https://github.com/Jagannathan6/micronaut-http-client-examples/tree/master/src/main
 
 * [TP2 Services JAXWS](https://perso.limos.fr/~sesalva/TPSoap/tp2/)
 * [TP3 Services JAXWS Statful, Appel Asynchones](https://perso.limos.fr/~sesalva/TPSoap/tp3/)
